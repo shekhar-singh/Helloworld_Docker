@@ -2,8 +2,8 @@
 
 To run this Dockfile in your system 
 ------------------------------------
-First clone it 
-cd to the cloned directory
+> - First clone it 
+> - cd to the cloned directory
 ```````````````````````````
 And run
 
